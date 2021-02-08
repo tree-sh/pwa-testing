@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "app.netlify.stupefied_dubinsky_39390e.twa",
+                   "sha256_cert_fingerprints": ["84:FD:08:E8:29:ED:8D:73:D0:1A:0B:A6:7C:5D:65:28:92:BB:34:FD:6B:1A:5F:A4:B7:08:2A:F4:F0:4E:B2:0B"] }
+    }]
